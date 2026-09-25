@@ -7,6 +7,8 @@ Every number (cash, revenue, costs, margin, backlog, on‑time, churn, MRR) move
 
 > Built for the *Autonomous Company Simulator* builder challenge. Everything in the brief maps to a place in this repo — see [Challenge checklist](#challenge-checklist).
 
+🌐 **Live Demo:** [https://alijalil.github.io/autonomous-company-simulator/](https://alijalil.github.io/autonomous-company-simulator/)
+
 ---
 
 ## Quick start
